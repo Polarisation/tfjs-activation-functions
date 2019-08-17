@@ -4,6 +4,8 @@ This is a web-based learning tool for understanding activation functions that ar
 
 Try it out: https://polarisation.github.io/tfjs-activation-functions/
 
+See also my [blog post](https://tech.courses/plotting-tensorflow-js-activation-functions/) about why and how I created this activation functions tool.
+
 ### License
 
 You may use this code under the [MIT license](./LICENSE) which places very few restrictions on use or re-use
